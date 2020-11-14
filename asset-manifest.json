@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crwm-clothing/static/css/main.714b1426.chunk.css",
+    "main.js": "/crwm-clothing/static/js/main.965d5405.chunk.js",
+    "main.js.map": "/crwm-clothing/static/js/main.965d5405.chunk.js.map",
+    "runtime-main.js": "/crwm-clothing/static/js/runtime-main.33ae79ff.js",
+    "runtime-main.js.map": "/crwm-clothing/static/js/runtime-main.33ae79ff.js.map",
+    "static/js/2.a14cd375.chunk.js": "/crwm-clothing/static/js/2.a14cd375.chunk.js",
+    "static/js/2.a14cd375.chunk.js.map": "/crwm-clothing/static/js/2.a14cd375.chunk.js.map",
+    "index.html": "/crwm-clothing/index.html",
+    "precache-manifest.13930e279213e8e114675aafc8cba8e3.js": "/crwm-clothing/precache-manifest.13930e279213e8e114675aafc8cba8e3.js",
+    "service-worker.js": "/crwm-clothing/service-worker.js",
+    "static/css/main.714b1426.chunk.css.map": "/crwm-clothing/static/css/main.714b1426.chunk.css.map",
+    "static/js/2.a14cd375.chunk.js.LICENSE.txt": "/crwm-clothing/static/js/2.a14cd375.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/crwm-clothing/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33ae79ff.js",
+    "static/js/2.a14cd375.chunk.js",
+    "static/css/main.714b1426.chunk.css",
+    "static/js/main.965d5405.chunk.js"
+  ]
+}
